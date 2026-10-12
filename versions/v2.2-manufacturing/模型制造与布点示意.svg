@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1020" viewBox="0 0 1400 1020">
+<defs><marker id="a" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto-start-reverse"><path d="M0 0L7 3.5L0 7Z" fill="#526477"/></marker><style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#223448;font-size:18px}.title{font-size:28px;font-weight:bold}.sub{font-size:22px;font-weight:bold}.sm{font-size:16px}.dim{stroke:#526477;stroke-width:1.4;marker-start:url(#a);marker-end:url(#a)}.dash{stroke:#6b8092;stroke-width:1.5;stroke-dasharray:7 5}.strain{fill:#df7634;stroke:white;stroke-width:2}.line{stroke:#268286;stroke-width:3;fill:none}</style></defs>
+<rect width="1400" height="1020" fill="#f5f8fb"/><text x="45" y="52" class="title">V2.2 边坡模型制造与测点图</text><text x="45" y="85">净尺寸单位：mm；坐标单位：m。几何参照1:12.5，构件截面未按力学相似定型。</text>
+<rect x="35" y="112" width="760" height="445" rx="12" fill="white" stroke="#d1dde6"/>
+<text x="60" y="145" class="sub">A  顺坡截面（Y–Z）</text>
+<rect x="120" y="180" width="600" height="300" fill="none" stroke="#566b7e" stroke-width="4"/>
+<path d="M120 480H720V230H545L245 430H120Z" fill="#deccb1" stroke="#826d50" stroke-width="2"/>
+<rect x="120" y="430" width="600" height="50" fill="#b7b1a1" stroke="#826d50"/>
+<path d="M245 430L545 230" stroke="#268286" stroke-width="5"/>
+<rect x="595" y="221" width="75" height="9" fill="#566b7e"/><path d="M632 185V217" stroke="#566b7e" stroke-width="3" marker-end="url(#a)"/>
+<text x="553" y="177" class="sm">加载板 Y=1.9–2.2</text>
+<circle cx="320" cy="380" r="7" class="strain"/><circle cx="470" cy="280" r="7" class="strain"/>
+<text x="245" y="368" class="sm">下排 Y=.8 Z=.4</text><text x="362" y="265" class="sm">上排 Y=1.4 Z=.8</text>
+<text x="137" y="461" class="sm">基底厚200</text><text x="568" y="311">主动土层</text><text x="415" y="345" class="sm" transform="rotate(-33.69 415 345)">坡比1:1.5；斜长1442</text>
+<line x1="120" y1="510" x2="720" y2="510" class="dim"/><text x="312" y="538">500 + 1200 + 700 = 2400</text>
+<line x1="755" y1="180" x2="755" y2="480" class="dim"/><text x="775" y="377" transform="rotate(-90 775 377)">箱高1200</text>
+<line x1="94" y1="230" x2="94" y2="430" class="dim"/><text x="80" y="374" transform="rotate(-90 80 374)">坡高800</text>
+<text x="235" y="411" class="sm">坡脚</text><text x="501" y="217" class="sm">坡肩</text>
+<rect x="815" y="112" width="550" height="445" rx="12" fill="white" stroke="#d1dde6"/>
+<text x="840" y="145" class="sub">B  坡面展开布点（24应变点）</text>
+<rect x="890" y="193" width="400" height="288.4" fill="#eef5ef" stroke="#566b7e" stroke-width="2"/>
+<path d="M890 265.1H1290M890 409.3H1290M990 193V481.4M1190 193V481.4" class="line"/>
+<g class="strain"><circle cx="915" cy="265.1" r="6"/><circle cx="965" cy="265.1" r="6"/><circle cx="1015" cy="265.1" r="6"/><circle cx="1065" cy="265.1" r="6"/><circle cx="1115" cy="265.1" r="6"/><circle cx="1165" cy="265.1" r="6"/><circle cx="1215" cy="265.1" r="6"/><circle cx="1265" cy="265.1" r="6"/>
+<circle cx="915" cy="409.3" r="6"/><circle cx="965" cy="409.3" r="6"/><circle cx="1015" cy="409.3" r="6"/><circle cx="1065" cy="409.3" r="6"/><circle cx="1115" cy="409.3" r="6"/><circle cx="1165" cy="409.3" r="6"/><circle cx="1215" cy="409.3" r="6"/><circle cx="1265" cy="409.3" r="6"/>
+<circle cx="990" cy="229.1" r="6"/><circle cx="990" cy="301.2" r="6"/><circle cx="990" cy="373.3" r="6"/><circle cx="990" cy="445.4" r="6"/><circle cx="1190" cy="229.1" r="6"/><circle cx="1190" cy="301.2" r="6"/><circle cx="1190" cy="373.3" r="6"/><circle cx="1190" cy="445.4" r="6"/></g>
+<text x="1010" y="184" class="sm">坡肩（Y=1.7）</text><text x="1010" y="507" class="sm">坡脚（Y=0.5）</text>
+<text x="1008" y="254" class="sm">上排：8点</text><text x="1008" y="397" class="sm">下排：8点</text><text x="903" y="341" class="sm">X=.5</text><text x="1201" y="341" class="sm">X=1.5</text>
+<line x1="890" y1="531" x2="1290" y2="531" class="dim"/><text x="1020" y="551" class="sm">横坡宽2000</text>
+<rect x="35" y="578" width="1330" height="322" rx="12" fill="white" stroke="#d1dde6"/>
+<text x="60" y="615" class="sub">C  箱体制造与三类固定（构造示意，非承载加工图）</text>
+<rect x="95" y="674" width="550" height="155" fill="#eef3f7" stroke="#445a70" stroke-width="6"/>
+<path d="M95 733H645M95 785H645M232 674V829M370 674V829M507 674V829" stroke="#73899b" stroke-width="5"/>
+<path d="M76 840H665" stroke="#445a70" stroke-width="9"/><path d="M148 844V870M585 844V870" stroke="#445a70" stroke-width="12"/>
+<text x="260" y="710">分格PC观察板</text><text x="265" y="764">钢承力框架＋围檩</text><text x="223" y="819" class="sm">底板由次梁支承，压条密封侧板</text>
+<text x="740" y="661">① 装置固定：箱底支座→核定承载基础</text><text x="740" y="700">② 构件固定：网片/梁→定义明确的锚点</text><text x="740" y="739">③ 传感固定：夹具/胶→有效标距，避免旁路</text>
+<text x="740" y="790" class="sm">加载门架、位移参考架独立；受载箱体不设移动轮。</text><text x="740" y="825" class="sm">钢管、板厚、螺栓候选值须计算后形成加工图。</text><text x="740" y="860" class="sm">细土近传感器人工轻压；光谱检查贯穿每次回填。</text>
+<text x="45" y="936">体积校核：基底0.96 + 主动层2.08 = 3.04 m³；湿土约4.56–5.47 t（不含箱体与外加载荷）。</text>
+<text x="45" y="973" class="sm">B图只画24个应变点；另有位移2、温度4、可选动态2，共30/32点。跳线及非感测段另绘竣工点表。</text>
+</svg>

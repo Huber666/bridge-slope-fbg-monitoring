@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400" viewBox="0 0 1400 1400">
+<defs><style>text{font-family:'Microsoft YaHei','Noto Sans CJK SC',sans-serif;fill:#223448;font-size:18px}.title{font-size:28px;font-weight:bold}.sub{font-size:22px;font-weight:bold}.small{font-size:16px}.fiber{stroke:#de713c;stroke-width:4;fill:none}.metal{fill:#afbcc7;stroke:#556e82;stroke-width:2}.cover{stroke:#667f93;stroke-width:3;stroke-dasharray:8 5;fill:none}</style></defs>
+<rect width="1400" height="1400" fill="#f5f8fb"/><text x="40" y="48" class="title">V2.2 光纤封装与安装节点</text><text x="40" y="83">结构示意，不按比例；材料、标距与夹持参数需成品标定。橙色为光纤/感测路径。</text>
+<g fill="white" stroke="#d1dde6"><rect x="35" y="112" width="650" height="390" rx="12"/><rect x="710" y="112" width="655" height="390" rx="12"/><rect x="35" y="525" width="650" height="380" rx="12"/><rect x="710" y="525" width="655" height="380" rx="12"/></g>
+<text x="60" y="152" class="sub">N1  格栅肋上两端夹持应变条</text>
+<rect x="90" y="308" width="525" height="23" rx="5" fill="#649576"/><text x="470" y="359" class="small">目标肋/网绳</text>
+<path d="M210 282V330H240V282M470 282V330H500V282" fill="none" stroke="#4b6478" stroke-width="10"/>
+<rect x="211" y="276" width="288" height="12" class="metal"/><path d="M216 271H494" class="fiber"/><text x="280" y="251">薄基片＋FBG</text>
+<path d="M190 265V223H520V260" class="cover"/><text x="214" y="205" class="small">分段/单端护罩，不跨锚点承力</text>
+<path d="M499 271C557 271 538 221 572 218C622 215 606 291 627 292" class="fiber"/>
+<text x="85" y="391">夹具压锚耳，不压裸纤；湿态防滑先测试。</text><text x="85" y="424">有效标距由两传力锚点定义；引线余量在段外。</text><text x="85" y="464" class="small">首轮：Lg=100 mm，外形约140–160 mm，待厂商确认。</text>
+<text x="735" y="152" class="sub">N2  刚性梁表贴＋独立保护罩</text>
+<rect x="770" y="303" width="535" height="64" fill="#d5d3c8" stroke="#968e78" stroke-width="2"/><text x="925" y="345">砂浆/微混凝土梁</text>
+<rect x="846" y="293" width="340" height="10" fill="#e7c96f"/><rect x="846" y="281" width="340" height="12" class="metal"/><path d="M853 276H1180" class="fiber"/>
+<path d="M809 303V225H1240V274" class="cover"/><text x="850" y="205" class="small">护罩一侧固定，另一侧可滑动</text>
+<text x="765" y="404">底涂/胶层连续传力；相容、固化、湿态复测。</text><text x="765" y="439">罩壳不压光栅；槽位与深度须先获结构许可。</text><text x="765" y="476" class="small">梁→胶→基片→光栅；不把梁应变直接当土体应变。</text>
+<text x="60" y="565" class="sub">N3  跨缝位移转换组件</text>
+<rect x="90" y="681" width="220" height="54" fill="#d5d3c8"/><rect x="395" y="681" width="220" height="54" fill="#d5d3c8"/><path d="M352 655V750" stroke="#a9b8c4" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="182" y="656" width="31" height="35" class="metal"/><rect x="498" y="656" width="31" height="35" class="metal"/><rect x="213" y="637" width="285" height="32" rx="4" class="metal"/>
+<path d="M255 653H319L332 640L348 668L364 640L379 653H448" class="fiber"/>
+<path d="M171 632V607H543V632" class="cover"/><text x="196" y="601" class="small">自由伸缩护罩＋行程限位</text>
+<text x="85" y="781">锚座各接缝一侧，内部转换机构须全量程标定。</text><text x="85" y="815">候选±10 mm位移计；短裸栅不可直接跨厘米缝。</text><text x="85" y="859" class="small">余量只留外部引线，内部感测机构不能放松。</text>
+<text x="735" y="565" class="sub">N4  感测段—引线过渡与温度隔离</text>
+<path d="M760 656H905" class="fiber"/><rect x="897" y="627" width="125" height="62" rx="6" class="metal"/><path d="M912 655H1017C1075 655 1039 612 1090 612H1300" class="fiber"/>
+<path d="M1022 641C1063 641 1041 598 1090 598H1300M1022 671C1087 671 1042 626 1090 626H1300" stroke="#596f83" stroke-width="8" fill="none"/>
+<text x="748" y="611" class="small">S段：传力明确</text><text x="1110" y="586" class="small">L段：重保护引线</text><text x="847" y="722" class="small">过渡座分担牵引，应力释放、密封</text>
+<rect x="985" y="755" width="219" height="50" rx="10" fill="#e3edf4" stroke="#536f86" stroke-width="2"/><path d="M944 780H1007C1037 762 1090 793 1125 780H1240" class="fiber"/>
+<text x="751" y="781" class="small">T温度段</text><text x="748" y="841">壳体固定，腔内光栅轴向隔离；硬胶不灌满腔体。</text><text x="748" y="875" class="small">热系数与热滞后取最终装配体实测值。</text>
+<text x="45" y="949" class="sub">截面逻辑</text><text x="45" y="986">S连续缆：光纤/涂覆 → 紧耦合缓冲/传力层 → 经验证轻铠 → 外护套（全有效标距传力）</text><text x="45" y="1023">L引线：光纤 → 松套隔离 → 抗拉件/重铠 → 护套（保护和接续，不用于定量应变）</text><text x="45" y="1064" class="small">相位阵列可能感测相邻栅之间整段；N1短条结构不能自动替代其连续感测缆。最终以主机与成品标定为准。</text>
+<rect x="35" y="1090" width="1330" height="275" rx="12" fill="white" stroke="#d1dde6"/>
+<text x="65" y="1127" class="sub">S-P 应变条截面</text><text x="510" y="1127" class="sub">S-C 连续紧耦合缆截面</text><text x="975" y="1127" class="sub">L 松套重保护引线截面</text>
+<rect x="80" y="1236" width="250" height="18" fill="#afbcc7" stroke="#556e82"/><path d="M80 1235Q80 1182 205 1182Q330 1182 330 1235" fill="#9ed8cb" stroke="#468d80"/><rect x="150" y="1210" width="110" height="26" rx="6" fill="#e7c96f"/><circle cx="205" cy="1210" r="12" fill="#7bacde"/><circle cx="205" cy="1210" r="4" fill="#de713c"/>
+<text x="351" y="1193" class="small">保护层</text><text x="351" y="1223" class="small">纤维/涂覆</text><text x="351" y="1253" class="small">胶层＋基片</text><text x="65" y="1310" class="small">基片与光栅共变形；壳罩不旁路承力。</text>
+<circle cx="630" cy="1220" r="70" fill="#9ed8cb" stroke="#468d80" stroke-width="2"/><circle cx="630" cy="1220" r="54" fill="#afbcc7" stroke="#556e82" stroke-width="2"/><circle cx="630" cy="1220" r="42" fill="#e7c96f"/><circle cx="630" cy="1220" r="20" fill="#7bacde"/><circle cx="630" cy="1220" r="7" fill="#de713c"/>
+<text x="716" y="1180" class="small">外护套</text><text x="716" y="1213" class="small">轻铠（薄管候选）</text><text x="716" y="1246" class="small">连续传力层</text><text x="716" y="1279" class="small">紧缓冲→光纤</text><text x="510" y="1331" class="small">全截面传力需制造与试验共同证明。</text>
+<circle cx="1073" cy="1220" r="70" fill="#9ed8cb" stroke="#468d80" stroke-width="2"/><circle cx="1073" cy="1220" r="56" fill="#afbcc7" stroke="#556e82" stroke-width="4"/><circle cx="1073" cy="1220" r="44" fill="#e3edf4"/><circle cx="1073" cy="1220" r="27" fill="white" stroke="#7bacde" stroke-width="6"/><circle cx="1065" cy="1228" r="4" fill="#de713c"/>
+<text x="1157" y="1180" class="small">护套/铠层</text><text x="1157" y="1213" class="small">独立抗拉结构</text><text x="1157" y="1246" class="small">松套腔</text><text x="1157" y="1279" class="small">隔离光纤</text><text x="975" y="1331" class="small">外缆伸长不等于内部光纤应变。</text>
+</svg>

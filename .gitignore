@@ -1,0 +1,12 @@
+# 临时文件、编辑器及本机凭据不入库
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
