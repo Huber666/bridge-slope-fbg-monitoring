@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1040" viewBox="0 0 1700 1040">
+<defs>
+ <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse"><path d="M0 0L8 4L0 8Z" fill="#466078"/></marker>
+ <pattern id="sand" width="18" height="18" patternUnits="userSpaceOnUse"><rect width="18" height="18" fill="#efd5a0"/><circle cx="4" cy="5" r="1.2" fill="#c29b59"/><circle cx="13" cy="13" r="1.2" fill="#c29b59"/></pattern>
+ <style>text{font-family:'Microsoft YaHei','SimHei',sans-serif;fill:#243c50;font-size:20px}.title{font-size:34px;font-weight:bold}.head{font-size:25px;font-weight:bold}.small{font-size:18px}.dim{stroke:#466078;stroke-width:1.5;marker-start:url(#arrow);marker-end:url(#arrow)}.guide{stroke:#a5b3bf;stroke-width:1;stroke-dasharray:5 5}.fiber{stroke:#d35945;stroke-width:3;fill:none}.node{fill:#d35945;stroke:white;stroke-width:2}</style>
+</defs>
+<rect width="1700" height="1040" fill="#f5f8fb"/>
+<text x="55" y="58" class="title">V2.4｜室内小型实心失稳模型</text>
+<text x="55" y="93">基准32°；净槽1400 × 500 × 850 mm｜沿坡有效长度1000 mm｜主动层法向厚120 mm</text>
+<rect x="40" y="115" width="965" height="647" rx="16" fill="white" stroke="#d6e0e8"/>
+<rect x="1030" y="115" width="630" height="647" rx="16" fill="white" stroke="#d6e0e8"/>
+<text x="65" y="154" class="head">侧视断面（32°；槽内几何按比例绘制）</text>
+<!-- scale: 560 pixels/m, origin x=110, bottom y=660 -->
+<rect x="110" y="184" width="784" height="476" fill="none" stroke="#7893a8" stroke-width="3"/>
+<!-- shoulder at x194 z0.61; toe x669 z0.08; active top z+0.1415 -->
+<polygon points="138,239 194,239 669,535.9 669,615.2 194,318.3 138,318.3" fill="url(#sand)" stroke="#a37c3f" stroke-width="2"/>
+<polygon points="138,318.3 194,318.3 669,615.2 669,641.6 194,344.7 138,344.7" fill="#899f79" stroke="#647658" stroke-width="2"/>
+<path d="M138 346L194 346L669 643" stroke="#425968" stroke-width="5" fill="none"/>
+<path d="M215 359L215 660M390 468L390 660M560 574L560 660M180 657H645" stroke="#b4bec7" stroke-width="7" fill="none"/>
+<path d="M698 652H871V619" stroke="#5a879a" stroke-width="4" fill="none"/>
+<text x="712" y="585" class="small">接土 / 滤水区</text>
+<text x="735" y="611" class="small">约402 mm</text>
+<text x="268" y="535">板下空腔支撑</text>
+<text x="268" y="563" class="small">土床及主动土层均实心</text>
+<line x1="194" y1="291.9" x2="669" y2="588.8" class="fiber"/>
+<circle cx="265.3" cy="336.1" r="8" class="node"/><circle cx="384.0" cy="410.3" r="8" class="node"/><circle cx="502.8" cy="484.6" r="8" class="node"/><circle cx="621.5" cy="558.8" r="8" class="node"/>
+<line x1="371" y1="392" x2="455" y2="299" class="guide"/>
+<text x="440" y="247">主动砂 / 混合土：法向120 mm</text>
+<text x="440" y="275" class="small">节点距床面法向40 mm</text>
+<line x1="393" y1="443" x2="478" y2="385" class="guide"/>
+<text x="475" y="366" class="small">低渗土床：法向40 mm</text>
+<line x1="110" y1="705" x2="894" y2="705" class="dim"/>
+<text x="411" y="735">水平净长1400 mm</text>
+<line x1="76" y1="184" x2="76" y2="660" class="dim"/>
+<text x="64" y="500" transform="rotate(-90 64 500)">最高净壁850 mm</text>
+<text x="268" y="620" class="small">有效床面沿坡长1000 mm</text>
+<text x="119" y="211" class="small">后空隙＋100 mm平台</text>
+<text x="1055" y="154" class="head">坡面展开布点（非水平俯视）</text>
+<text x="1055" y="186" class="small">s从坡肩起；y沿横坡；尺寸单位mm</text>
+<!-- developed slope width 500, length1000 scale .43 -->
+<rect x="1200" y="235" width="215" height="430" fill="#f8edda" stroke="#84909b" stroke-width="2"/>
+<line x1="1264.5" y1="235" x2="1264.5" y2="665" class="fiber"/>
+<line x1="1350.5" y1="235" x2="1350.5" y2="665" class="fiber"/>
+<line x1="1307.5" y1="235" x2="1307.5" y2="665" stroke="#478fbd" stroke-width="2" stroke-dasharray="8 7"/>
+<g class="node"><circle cx="1264.5" cy="288.75" r="8"/><circle cx="1264.5" cy="396.25" r="8"/><circle cx="1264.5" cy="503.75" r="8"/><circle cx="1264.5" cy="611.25" r="8"/><circle cx="1350.5" cy="288.75" r="8"/><circle cx="1350.5" cy="396.25" r="8"/><circle cx="1350.5" cy="503.75" r="8"/><circle cx="1350.5" cy="611.25" r="8"/></g>
+<text x="1230" y="219" class="small">坡肩 s=0</text>
+<text x="1230" y="692" class="small">坡脚 s=1000</text>
+<text x="1072" y="295" class="small">125｜S1 / S5</text><text x="1072" y="402" class="small">375｜S2 / S6</text><text x="1072" y="510" class="small">625｜S3 / S7</text><text x="1072" y="618" class="small">875｜S4 / S8</text>
+<line x1="1200" y1="718" x2="1415" y2="718" class="dim"/>
+<text x="1262" y="746">宽500</text>
+<text x="1435" y="290" class="small">两线 y=150 / 350</text>
+<text x="1435" y="321" class="small">沿坡站距250</text>
+<text x="1435" y="381" class="small">蓝虚线：</text><text x="1435" y="410" class="small">独立水力观测带</text>
+<text x="1435" y="440" class="small">探头不能压住光缆</text>
+<text x="1435" y="508" class="small">红点：8个应变FBG</text>
+<text x="1435" y="539" class="small">另设2温度参考</text>
+<text x="1435" y="569" class="small">可选1位移组件</text>
+<rect x="40" y="788" width="1620" height="211" rx="16" fill="#e7eff5"/>
+<text x="65" y="829" class="head">缩小的是土量和箱体余量，保留失稳与观测所需空间</text>
+<text x="65" y="869">基准主动层0.060 m³；含土床及平台总土量约0.089 m³。运行总质量初步预算约200–280 kg。</text>
+<text x="65" y="905">这是1g浅层机制模型：无指定现场原型，暂不宣称严格1∶20。25° / 35°边界位置另行校核。</text>
+<text x="65" y="941">先做无纤失稳，再做有/无纤对照；独立视频、位移与水力真值通过后，才扩展训练数据。</text>
+<text x="65" y="977" class="small">示意图不含完整连接、密封及结构验算；框架截面、板厚、外廓和光栅封装须在加工前确认。</text>
+</svg>
