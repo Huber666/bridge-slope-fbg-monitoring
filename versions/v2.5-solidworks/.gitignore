@@ -1,0 +1,5 @@
+# SolidWorks临时锁文件及可再生的大体积位图
+~$*
+CAD/*.bmp
+__pycache__/
+*.zip

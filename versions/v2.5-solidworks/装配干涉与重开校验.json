@@ -1,0 +1,196 @@
+{
+  "assemblies": [
+    {
+      "assembly": "空腔钢支架_32deg.SLDASM",
+      "reopen_errors": 0,
+      "reopen_warnings": 32,
+      "resolved_references": [
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\02_Q235B_坡脚低位托座.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\01_Q235B_40x40x3_空腔支架.SLDPRT"
+      ],
+      "interferences": []
+    },
+    {
+      "assembly": "支架及承托板_32deg.SLDASM",
+      "reopen_errors": 0,
+      "reopen_warnings": 32,
+      "resolved_references": [
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\01_Q235B_40x40x3_空腔支架.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\04_304_连续承托板_t3.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\02_Q235B_坡脚低位托座.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\03_EPDM_隔离垫条_t1.SLDPRT"
+      ],
+      "interferences": []
+    },
+    {
+      "assembly": "坡体总装_32deg.SLDASM",
+      "reopen_errors": 0,
+      "reopen_warnings": 0,
+      "resolved_references": [
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\09_FBG_8点包封占位_非成品设计.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\02_Q235B_坡脚低位托座.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\01_Q235B_40x40x3_空腔支架.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\04_304_连续承托板_t3.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\07_304_槽底示意_t3.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\05_压实低渗土床_n40.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\06_砂或混合土_主动层_n120.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\08_PC_观察围壁_t8_未含压框.SLDPRT",
+        "D:\\个人文件\\NGIA-光纤传感\\桥梁边坡检测\\versions\\v2.5-solidworks\\CAD\\03_EPDM_隔离垫条_t1.SLDPRT"
+      ],
+      "interferences": [
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.280000000000025e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.280000000000025e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2800000000000045e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2800000000000045e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2799999999999986e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2799999999999986e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2799999999999986e-06
+        },
+        {
+          "components": [
+            "06_砂或混合土_主动层_n120-1",
+            "09_FBG_8点包封占位_非成品设计-1"
+          ],
+          "volume_m3": 5.2799999999999986e-06
+        }
+      ]
+    }
+  ],
+  "part_geometry": [
+    {
+      "part": "01_Q235B_40x40x3_空腔支架.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "02_Q235B_坡脚低位托座.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "03_EPDM_隔离垫条_t1.SLDPRT",
+      "body_check2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "04_304_连续承托板_t3.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "05_压实低渗土床_n40.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "06_砂或混合土_主动层_n120.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "07_304_槽底示意_t3.SLDPRT",
+      "body_check2": [
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "08_PC_观察围壁_t8_未含压框.SLDPRT",
+      "body_check2": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "feature_errors": []
+    },
+    {
+      "part": "09_FBG_8点包封占位_非成品设计.SLDPRT",
+      "body_check2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "feature_errors": []
+    }
+  ],
+  "soil_volume_checks": [
+    {
+      "file": "05_压实低渗土床_n40.SLDPRT",
+      "cad_m3": 0.022358356806724166,
+      "analytic_m3": 0.022358356806724194
+    },
+    {
+      "file": "06_砂或混合土_主动层_n120.SLDPRT",
+      "cad_m3": 0.06707507042017258,
+      "analytic_m3": 0.06707507042017258
+    }
+  ],
+  "note": "FBG package intentionally lies inside active soil. No strength or loss-of-stability simulation is performed."
+}

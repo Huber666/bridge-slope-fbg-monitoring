@@ -1,0 +1,1 @@
+﻿trial_id,sensor_id,branch_id,sensor_serial,actual_s_mm,actual_y_mm,actual_n_mm,actual_x_mm,actual_z_mm,axis,gauge_length_mm,calibration_id,K_strain_with_units,K_temp_with_units,static_bend_radius_mm,dynamic_bend_radius_mm,baseline_wavelength,peak_quality,photo_id
