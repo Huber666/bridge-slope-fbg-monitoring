@@ -321,6 +321,7 @@ def build(mdname):
                 rows.append([s.strip() for s in lines[i].strip().strip('|').split('|')]);i+=1
             table(doc,rows);continue
         if line.startswith('# '):p=doc.add_paragraph(line[2:],style='Title')
+        elif line.startswith('### '):p=doc.add_paragraph(line[4:],style='Heading 2')
         elif line.startswith('## '):p=doc.add_paragraph(line[3:],style='Heading 1')
         elif line.startswith('!['):
             m=re.fullmatch(r'!\[(.*?)\]\((.*?)\)',line);path=(ROOT/m[2]).resolve()
