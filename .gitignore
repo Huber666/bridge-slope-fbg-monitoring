@@ -10,3 +10,6 @@ Thumbs.db
 .env.*
 *.pem
 *.key
+
+# 文档渲染与视觉检查的本机临时产物
+versions/**/_qa/

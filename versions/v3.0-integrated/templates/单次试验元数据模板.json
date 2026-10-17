@@ -1,0 +1,55 @@
+{
+  "trial_id": null,
+  "batch_id": null,
+  "configuration_version": "V3.0",
+  "cad_version": "V3.0 (V2.5 CAD source)",
+  "operator": null,
+  "date_timezone": "Asia/Shanghai",
+  "independent_rebuild": null,
+  "geometry_measured_mm": {
+    "net_L": null,
+    "net_W": null,
+    "net_H": null,
+    "active_normal": null,
+    "bed_normal": null
+  },
+  "angle_measured_deg": null,
+  "materials": {
+    "active_dry_ratio": null,
+    "bed_dry_ratio": null,
+    "active_dry_density_kg_m3": null,
+    "bed_dry_density_kg_m3": null,
+    "active_water_content_dry_basis": null,
+    "bed_water_content_dry_basis": null
+  },
+  "optical": {
+    "system_type": null,
+    "actual_full_channel_rate_Hz": null,
+    "calibration_id": null,
+    "wavelength_raw_units": null
+  },
+  "sync": {
+    "method": null,
+    "error_bound_ms": null,
+    "drift_ms": null
+  },
+  "rain": {
+    "calibration_id": null,
+    "horizontal_soil_area_m2": 0.474024048,
+    "planned_steps": [],
+    "actual_rain_start": null,
+    "actual_rain_end": null
+  },
+  "boundary": {
+    "side_seal": null,
+    "toe_drain": null,
+    "bed_interface": null
+  },
+  "pretest_acceptance": null,
+  "stop_reason": null,
+  "actual_event": null,
+  "optical_valid_intervals": [],
+  "reused_soil": null,
+  "deviations": [],
+  "reviewer": null
+}
