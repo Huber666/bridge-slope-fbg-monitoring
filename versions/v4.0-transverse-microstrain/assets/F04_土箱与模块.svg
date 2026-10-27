@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1010" viewBox="0 0 1600 1010">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">土箱横剖面 y向   活动底板输入不等于土体内部位移</text>
+<rect x="120" y="170" width="880" height="330" fill="white" stroke="#24647d" stroke-width="5"/>
+<rect x="124" y="478" width="872" height="22" fill="#ead6b8" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="456" width="872" height="22" fill="#dec7a6" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="434" width="872" height="22" fill="#ead6b8" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="412" width="872" height="22" fill="#dec7a6" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="390" width="872" height="22" fill="#ead6b8" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="368" width="872" height="22" fill="#dec7a6" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="346" width="872" height="22" fill="#ead6b8" stroke="#d3b994" stroke-width="1"/>
+<rect x="124" y="324" width="872" height="22" fill="#dec7a6" stroke="#d3b994" stroke-width="1"/>
+<polyline points="220,412 900,412" fill="none" stroke="#b13c34" stroke-width="5"/>
+<circle cx="340" cy="412" r="8" fill="#b13c34"/>
+<circle cx="560" cy="412" r="8" fill="#b13c34"/>
+<circle cx="780" cy="412" r="8" fill="#b13c34"/>
+<rect x="120" y="505" width="880" height="10" fill="#b8c9d2" stroke="#24647d" stroke-width="2"/>
+<rect x="120" y="585" width="880" height="10" fill="#b8c9d2" stroke="#24647d" stroke-width="2"/>
+<rect x="150" y="595" width="820" height="20" fill="#7c95a2" stroke="#24647d" stroke-width="2"/>
+<rect x="582" y="497" width="110" height="18" fill="#c77f60" stroke="#b13c34" stroke-width="3"/>
+<polyline points="637,520 637,570" fill="none" stroke="#b13c34" stroke-width="4"/>
+<polyline points="637,570 630.4755169883315,556.4932934647098 643.5244830116685,556.4932934647098 637,570" fill="none" stroke="#b13c34" stroke-width="4"/>
+<text x="140" y="554" font-family="Microsoft YaHei,sans-serif" font-size="24" font-weight="400" fill="#20313b">干燥机械层  高度按驱动器确定</text>
+<text x="1050" y="214" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">净高 300</text>
+<text x="1050" y="255" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">土厚 160</text>
+<text x="1050" y="296" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">8层 × 20</text>
+<text x="1050" y="368" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">d从土面向下</text>
+<text x="1050" y="408" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">红线默认 d80</text>
+<text x="1050" y="448" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">另次比较 d40/120</text>
+<text x="80" y="649" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">304底板3 + 连续网格承托；外架方管30 × 30 × 3候选。</text>
+<text x="80" y="704" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">PC观察壁8 + 外压框；接缝EPDM密封；执行器与相机另架支承。</text>
+<text x="80" y="773" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">M1 双盘差动</text>
+<text x="80" y="813" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">沿y张开 / 沿s剪切</text>
+<text x="590" y="773" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">M2 局部下沉板</text>
+<text x="590" y="813" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">100 × 100 支承卸载</text>
+<text x="1100" y="773" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">M3 局部托盘</text>
+<text x="1100" y="813" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="700" fill="#20313b">200 × 200 缓慢错动</text>
+<text x="80" y="891" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">示意图未按板厚放大比例绘制。每次只安装一种模块，底板连续性随接口复核。</text>
+<text x="80" y="946" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">水平土箱用于机制与耦合验证；坡槽阶段另定坡角和几何，保留V3 CAD作历史参考。</text>
+</svg>

@@ -1,0 +1,1 @@
+﻿analysis_id,test_group,algorithm_version,threshold_version,bandwidth_Hz,normal_effective_h,false_alarm_events,false_alarm_rate_per_h,false_alarm_upper95_per_h,independent_trials,detected_trials,Pd,Pd_lower95,Pd_upper95,minimum_input_um,localization_error_mm,missing_channels,confidence_method

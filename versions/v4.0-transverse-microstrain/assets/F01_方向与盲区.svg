@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">横向布纤的方向响应   理想几何算例不等于土中检测限</text>
+<text x="60" y="157" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">沿轴线张开</text>
+<text x="60" y="207" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">L = 100 mm  Δy = 10 μm</text>
+<polyline points="85,320 470,320" fill="none" stroke="#a9b2b8" stroke-width="4"/>
+<polyline points="85,320 500,320" fill="none" stroke="#b13c34" stroke-width="6"/>
+<polyline points="420,260 510,260" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="510,260 496.49329346470984,266.52448301166845 496.49329346470984,253.47551698833155 510,260" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="160" y="408" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">沿横坡 y</text>
+<text x="60" y="514" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="700" fill="#b13c34">理想平均应变 100 με</text>
+<text x="570" y="157" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">垂直轴线差动</text>
+<text x="570" y="207" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">L = 100 mm  Δs = 10 μm</text>
+<polyline points="595,320 980,320" fill="none" stroke="#a9b2b8" stroke-width="4"/>
+<polyline points="595,320 980,375" fill="none" stroke="#b13c34" stroke-width="6"/>
+<polyline points="980,290 980,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="980,375 973.4755169883315,361.49329346470984 986.5244830116685,361.49329346470984 980,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="630" y="431" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">沿 s 或 n   图中位移夸大</text>
+<text x="570" y="514" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="700" fill="#b13c34">理想平均应变 0.005 με</text>
+<text x="1080" y="157" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">整个区域同动</text>
+<text x="1080" y="207" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">两端同向同量移动</text>
+<polyline points="1105,320 1490,320" fill="none" stroke="#a9b2b8" stroke-width="4"/>
+<polyline points="1105,375 1490,375" fill="none" stroke="#b13c34" stroke-width="6"/>
+<polyline points="1105,290 1105,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1105,375 1098.4755169883315,361.49329346470984 1111.5244830116685,361.49329346470984 1105,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1490,290 1490,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1490,375 1483.4755169883315,361.49329346470984 1496.5244830116685,361.49329346470984 1490,375" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="1145" y="433" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">两端之间无差动</text>
+<text x="1080" y="514" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="700" fill="#b13c34">相对伸长为零</text>
+<text x="60" y="622" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="400" fill="#20313b">局部弯曲转换件：将两锚点的顺坡或法向差动转换为表面轴向应变。</text>
+<text x="60" y="680" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">仍须验证土锚滑移、转动、温漂与构件加筋效应；不能消除整块同动盲区。</text>
+<text x="60" y="757" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">灰线为初始位置；红线为变形示意。主光路保持横向，示意位移非实际比例。</text>
+</svg>

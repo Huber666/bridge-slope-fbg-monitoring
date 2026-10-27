@@ -2,10 +2,13 @@
 
 本项目研究桥台及道路邻近边坡的异常滑动与振动感知，重点包括实体模型制造、FBG光栅阵列封装铠装与布设、独立真值试验及CNN-LSTM识别。文档按现存版本分目录保存。
 
+**2026-10-27进度保存：[V4横向布纤与早期微变形工作稿](versions/v4.0-transverse-microstrain/README.md)**。当前研究主线已调整为病害前兆、横向光栅布设、局部差动转换及提前检出评价。四册文档、六张图和记录模板已保存，最终检查待继续；[续做清单](versions/v4.0-transverse-microstrain/进度保存与明日待办.md)记录剩余工作。以下V3及更早版本为可追溯历史基线，其“当前”表述对应当时版本，不代表V4已经定案。
+
 ## 版本目录
 
 | 目录 | 内容 | 日期与状态 |
 |---|---|---|
+| [versions/v4.0-transverse-microstrain](versions/v4.0-transverse-microstrain/README.md) | 早期病害文献、横向FBG与转换节点、模块土箱制造、微变形实验与评价 | 2026-10-27；工作稿已保存，最终复核待完成 |
 | [versions/v1-initial](versions/v1-initial/README.md) | 早期文献选型、模型/现场施工初稿及FBG施工初稿 | 主体编写于2026-09-21，部分文件保留2026-10-12后续说明；作为历史讨论 |
 | [versions/v2.2-manufacturing](versions/v2.2-manufacturing/README.md) | 模型制造、光栅封装与安装、文献、现场比较及需求核查 | 2026-10-12；保留作制造安装参考 |
 | [versions/v2.3-failure-model](versions/v2.3-failure-model/README.md) | 材料选择、实心分层结构、滑移/塌落触发、评价指标和训练标签 | 2026-10-13；保留作为前版 |

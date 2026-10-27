@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="850" viewBox="0 0 1600 850">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">评价路径与独立事件时标   示意时序不代表已获提前量</text>
+<text x="80" y="164" font-family="Microsoft YaHei,sans-serif" font-size="34" font-weight="700" fill="#20313b">台架标定</text>
+<text x="80" y="225" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">独立位移与电测</text>
+<text x="80" y="267" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">灵敏度 噪声 温漂</text>
+<polyline points="430,208 555,208" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="555,208 541.4932934647098,214.52448301166845 541.4932934647098,201.47551698833155 555,208" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="590" y="164" font-family="Microsoft YaHei,sans-serif" font-size="34" font-weight="700" fill="#20313b">土中传力</text>
+<text x="590" y="225" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">土标记与锚片滑移</text>
+<text x="590" y="267" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">干湿和有无纤对照</text>
+<polyline points="940,208 1065,208" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1065,208 1051.49329346471,214.52448301166845 1051.49329346471,201.47551698833155 1065,208" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="1100" y="164" font-family="Microsoft YaHei,sans-serif" font-size="34" font-weight="700" fill="#20313b">病害检出</text>
+<text x="1100" y="225" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">同误报预算比较</text>
+<text x="1100" y="267" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">检出概率及提前量</text>
+<polyline points="100,480 1490,480" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1490,480 1476.49329346471,486.52448301166845 1476.49329346471,473.47551698833155 1490,480" fill="none" stroke="#24647d" stroke-width="4"/>
+<circle cx="130" cy="480" r="8" fill="#24647d"/>
+<text x="82" y="407" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="700" fill="#20313b">t0</text>
+<text x="75" y="552" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">实际加载</text>
+<circle cx="420" cy="480" r="8" fill="#24647d"/>
+<text x="372" y="407" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="700" fill="#20313b">tinternal</text>
+<text x="365" y="552" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">内部参考</text>
+<circle cx="670" cy="480" r="8" fill="#b13c34"/>
+<text x="622" y="407" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="700" fill="#20313b">talarm</text>
+<text x="615" y="552" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">因果报警</text>
+<circle cx="930" cy="480" r="8" fill="#24647d"/>
+<text x="882" y="407" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="700" fill="#20313b">tvisible</text>
+<text x="875" y="552" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">表面可见</text>
+<circle cx="1270" cy="480" r="8" fill="#24647d"/>
+<text x="1222" y="407" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="700" fill="#20313b">tfailure</text>
+<text x="1215" y="552" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">宏观破坏</text>
+<text x="80" y="645" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">分别计算：表面可见时刻 − 报警时刻；持续运动时刻 − 报警时刻；破坏时刻 − 报警时刻。</text>
+<text x="80" y="709" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">各事件顺序可变，负提前量照实记录；无破坏时不填写破坏提前量。</text>
+<text x="80" y="773" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">训练测试按独立重建分组；30 h零误报的泊松95%上界仍约0.1次/h。</text>
+</svg>

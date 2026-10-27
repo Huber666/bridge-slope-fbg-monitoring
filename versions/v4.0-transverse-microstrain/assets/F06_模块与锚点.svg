@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1010" viewBox="0 0 1600 1010">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">病害模块与锚点位置   同一土箱分次更换模块</text>
+<text x="70" y="152" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">M1 双盘差动</text>
+<rect x="70" y="180" width="425" height="280" fill="#faf4eb" stroke="#24647d" stroke-width="3"/>
+<polyline points="70,320 495,320" fill="none" stroke="#24647d" stroke-width="3"/>
+<rect x="112.5" y="235" width="127.5" height="170" fill="#d5e4eb" stroke="#24647d" stroke-width="2"/>
+<rect x="240.0" y="235" width="127.5" height="170" fill="#dfb99b" stroke="#b13c34" stroke-width="2"/>
+<polyline points="308.0,430 350.5,430" fill="none" stroke="#b13c34" stroke-width="4"/>
+<polyline points="350.5,430 336.99329346470984,436.52448301166845 336.99329346470984,423.47551698833155 350.5,430" fill="none" stroke="#b13c34" stroke-width="4"/>
+<rect x="163.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="150.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">330</text>
+<rect x="282.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="269.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">470</text>
+<polyline points="180.5,320 299.5,320" fill="none" stroke="#b13c34" stroke-width="5"/>
+<text x="70" y="556" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H2-2锚点 y330 / y470</text>
+<text x="70" y="617" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">分界 y400</text>
+<text x="70" y="656" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">两锚点位于不同承载盘</text>
+<text x="580" y="152" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">M2 局部下沉</text>
+<rect x="580" y="180" width="425" height="280" fill="#faf4eb" stroke="#24647d" stroke-width="3"/>
+<polyline points="580,320 1005,320" fill="none" stroke="#24647d" stroke-width="3"/>
+<rect x="767.0" y="277.5" width="85.0" height="85.0" fill="#dfb99b" stroke="#b13c34" stroke-width="3"/>
+<rect x="673.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="660.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">330</text>
+<rect x="792.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="779.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">470</text>
+<polyline points="690.5,320 809.5,320" fill="none" stroke="#b13c34" stroke-width="5"/>
+<text x="580" y="556" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H2-2锚点 y330 / y470</text>
+<text x="580" y="617" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">模块中心 y470</text>
+<text x="580" y="656" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">右锚上方卸载 左锚参考</text>
+<text x="1090" y="152" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="700" fill="#20313b">M3 局部错动</text>
+<rect x="1090" y="180" width="425" height="280" fill="#faf4eb" stroke="#24647d" stroke-width="3"/>
+<polyline points="1090,320 1515,320" fill="none" stroke="#24647d" stroke-width="3"/>
+<rect x="1260.0" y="235.0" width="170.0" height="170.0" fill="#dfb99b" stroke="#b13c34" stroke-width="3"/>
+<polyline points="1362.0,430 1362.0,480" fill="none" stroke="#b13c34" stroke-width="4"/>
+<polyline points="1362.0,480 1355.4755169883315,466.49329346470984 1368.5244830116685,466.49329346470984 1362.0,480" fill="none" stroke="#b13c34" stroke-width="4"/>
+<rect x="1183.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="1170.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">330</text>
+<rect x="1302.5" y="303" width="34.0" height="34" fill="#8aa3ad" stroke="#20313b" stroke-width="2"/>
+<text x="1289.5" y="500" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">470</text>
+<polyline points="1200.5,320 1319.5,320" fill="none" stroke="#b13c34" stroke-width="5"/>
+<text x="1090" y="556" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H2-2锚点 y330 / y470</text>
+<text x="1090" y="617" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">模块边缘 y400 / y600</text>
+<text x="1090" y="656" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">同时考察H2-2和H2-3</text>
+<text x="70" y="807" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">图示为s300测线局部平面；y显示200—700 mm。灰色为局部锚片，红线为转换梁。</text>
+<text x="70" y="868" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">底部差动可能经土拱和剪切扩散而改变；d80处两锚点的相对运动必须独立测得。</text>
+<text x="70" y="932" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">M2避免对称下沉只使梁跨中受土压的歧义；若变形区偏移，按土内参考调整测线。</text>
+</svg>

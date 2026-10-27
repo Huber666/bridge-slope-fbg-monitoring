@@ -1,0 +1,57 @@
+{
+  "status": "planned_not_measured",
+  "version": "V4.0",
+  "coordinates": {
+    "s": "downslope/loading direction",
+    "y": "transverse",
+    "n": "outward normal",
+    "d": "depth below local soil surface"
+  },
+  "box_mm": {
+    "s": 600,
+    "y": 800,
+    "height": 300,
+    "soil_thickness": 160
+  },
+  "line_s_mm": [
+    150,
+    300,
+    450
+  ],
+  "node_y_mm": [
+    200,
+    400,
+    600
+  ],
+  "depth_mm": 80,
+  "configuration_counts": {
+    "A": 12,
+    "B_single_direction": 21,
+    "B_two_direction": 39
+  },
+  "soil_candidates_dry_mass": {
+    "A0": {
+      "sand": 1.0,
+      "kaolin": 0.0
+    },
+    "A5": {
+      "sand": 0.95,
+      "kaolin": 0.05
+    },
+    "A10": {
+      "sand": 0.9,
+      "kaolin": 0.1
+    }
+  },
+  "candidate_water_ratio": [
+    0.02,
+    0.04,
+    0.06
+  ],
+  "actual_dry_density_kg_m3": null,
+  "actual_interrogator": null,
+  "measured_noise_ue": null,
+  "validated_detection_limit_um": null,
+  "alarm_rule": null,
+  "test_split_rule": "group by independent rebuild and batch before windowing"
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1010" viewBox="0 0 1600 1010">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">B转换节点尺寸与传力   横向两锚点差动弯曲</text>
+<rect x="140" y="210" width="240" height="130" fill="#d4e0e6" stroke="#24647d" stroke-width="3"/>
+<rect x="980" y="210" width="240" height="130" fill="#d4e0e6" stroke="#24647d" stroke-width="3"/>
+<rect x="200" y="259" width="960" height="32" fill="#b8c6cd" stroke="#20313b" stroke-width="3"/>
+<rect x="200" y="250" width="120" height="50" fill="#a2b5bf" stroke="#20313b" stroke-width="3"/>
+<rect x="1040" y="250" width="120" height="50" fill="#a2b5bf" stroke="#20313b" stroke-width="3"/>
+<rect x="395" y="249" width="30" height="8" fill="#b13c34" stroke="#b13c34" stroke-width="2"/>
+<rect x="395" y="293" width="30" height="8" fill="#b13c34" stroke="#b13c34" stroke-width="2"/>
+<polyline points="200,135 1160,135" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1160,135 1146.49329346471,141.52448301166845 1146.49329346471,128.47551698833155 1160,135" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="200,135 213.50670653529016,128.47551698833155 213.50670653529016,141.52448301166845 200,135" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="590" y="115" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">薄片总长 160</text>
+<polyline points="320,390 1040,390" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1040,390 1026.49329346471,396.52448301166845 1026.49329346471,383.47551698833155 1040,390" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="320,390 333.50670653529016,383.47551698833155 333.50670653529016,396.52448301166845 320,390" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="565" y="439" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">有效跨长 120</text>
+<text x="160" y="493" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">夹持 20</text>
+<text x="1010" y="493" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">夹持 20</text>
+<text x="1260" y="252" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">局部锚片</text>
+<text x="1260" y="291" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">约 40 × 40</text>
+<text x="1260" y="330" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">土中不接箱壁</text>
+<text x="80" y="580" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">FBG两面同位：距有效跨根部 a = 15；栅长候选5。</text>
+<text x="80" y="634" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">SUS301弹性片：宽10；厚0.3 / 0.5 / 0.8三组；柔性护罩不跨接传力。</text>
+<polyline points="410,305 410,525 380,525" fill="none" stroke="#b13c34" stroke-width="2"/>
+<text x="80" y="709" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">测法向 n 差动：宽面平行土面。测顺坡 s 差动：薄片绕 y 轴转90°。</text>
+<text x="80" y="769" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="700" fill="#20313b">t = 0.5时理想响应 0.0781 με/μm；10 μm仅约0.781 με，须实测噪声。</text>
+<text x="80" y="835" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#24647d">感测段 → 渐变柔性过渡 → 松套连接 → 箱外铠装或可拆保护管</text>
+<text x="80" y="899" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">固定导向梁仅为计算假设。锚片转动和拔滑必须独立量测。</text>
+<text x="80" y="956" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">尺寸单位 mm；仅作样件制造讨论，夹具、胶层及限位在样件标定后冻结。</text>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "status": "analytical_design_examples_not_measurements",
+  "transverse_perpendicular_10um_ue": 0.0049999999875,
+  "axial_10um_ue": 100.0,
+  "ideal_beam_ue_per_um": 0.078125,
+  "ideal_beam_10um_ue": 0.78125,
+  "box_soil_m3": 0.0768,
+  "dry_mass_example_kg": 115.19999999999999,
+  "wet_mass_4percent_kg": 119.80799999999999,
+  "one_layer_dry_kg": 14.399999999999999,
+  "one_layer_wet_4percent_kg": 14.975999999999999,
+  "saturated_pore_water_example_kg": 33.32830188679245,
+  "saturated_soil_water_example_kg": 148.52830188679243,
+  "20mmh_20min_litres": 3.1999999999999997,
+  "zero_alarm_30h_poisson_upper95_per_h": 0.0998577424517997,
+  "fbg_counts": [
+    12,
+    21,
+    39
+  ],
+  "node_side_clearance_mm": 110
+}

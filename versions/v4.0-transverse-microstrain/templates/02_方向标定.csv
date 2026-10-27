@@ -1,0 +1,1 @@
+﻿calibration_id,specimen_id,cycle_id,axis,angle_deg,command_um,measured_um,reference_expanded_uncertainty_um,surface_A_ue,surface_B_ue,half_difference_ue,temperature_C,force_N,bandwidth_Hz,hold_s,zero_drift_ue,loading_or_unloading,quality_flag
