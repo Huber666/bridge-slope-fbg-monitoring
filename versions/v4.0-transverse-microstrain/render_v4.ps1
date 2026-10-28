@@ -1,3 +1,4 @@
+param([string]$DocumentFilter = '0*.docx')
 $ErrorActionPreference = 'Stop'
 $v4Root = $PSScriptRoot
 $v4Qa = Join-Path $v4Root '_qa/word_render'
@@ -6,7 +7,7 @@ $v4Word = New-Object -ComObject Word.Application
 $v4Word.Visible = $false
 $v4Word.DisplayAlerts = 0
 try {
-  foreach ($v4File in Get-ChildItem -LiteralPath $v4Root -Filter '0*.docx' | Sort-Object Name) {
+  foreach ($v4File in Get-ChildItem -LiteralPath $v4Root -Filter $DocumentFilter | Sort-Object Name) {
     $v4Doc = $null
     try {
       $v4Doc = $v4Word.Documents.Open($v4File.FullName, $false, $true, $false)

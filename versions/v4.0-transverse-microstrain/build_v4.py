@@ -80,16 +80,16 @@ def figures():
     for i,s in enumerate((150,300,450),1):
         yy=y0+s
         f.line([(x0-65,yy),(x0+780,yy)],BLUE,4)
-        f.text((990,yy-17),f'H{i}  s={s}',29)
+        f.text((990,yy-17),f'H{i}  s={s}',27)
         for j,y in enumerate((200,400,600),1):
             x=x0+y
             f.rect((x-90,yy-25,x+90,yy+25),'#ead4b5',RED,2)
             f.circle(x,yy);f.text((x-49,yy-66),f'H{i}-{j}',25)
         f.circle(x0+100,yy-30,8,BLUE);f.text((x0+48,yy-72),f'T{i}',24,False,BLUE)
     for y in (200,400,600):f.text((x0+y-30,805),str(y),28)
-    f.text((1050,170),'图示为节点占位\n最大 180 × 50\n默认埋深 d = 80',28)
-    f.text((1050,340),'每线三个节点\n中心间距 200\n端部土体余量 110',28)
-    f.text((1050,515),'左侧分路引出\n汇线在箱外保护\n不纵向贯穿土体',28)
+    f.text((1230,170),'节点最大占位\n180 × 50\n埋深 d = 80',27)
+    f.text((1230,340),'每线三个节点\n中心间距 200\n侧边余量 110',27)
+    f.text((1230,515),'左侧分路引出\n箱外保护汇线\n不纵穿土体',27)
     f.text((80,875),'A：9应变 + 3温度 = 12栅     B单方向：18应变 + 3温度 = 21栅',30)
     f.text((80,925),'温度点独立松套；节点之间保留柔性余量。各配置分别重建对比。',27)
     f.save('F02_横向阵列')
@@ -189,6 +189,28 @@ def figures():
     f.text((70,905),'M2避免对称下沉只使梁跨中受土压的歧义；若变形区偏移，按土内参考调整测线。',27)
     f.save('F06_模块与锚点')
 
+    f=Drawing('单端夹具与锚片装配   两端分别连接 不跨接有效弯曲段',1000)
+    f.text((70,110),'单端俯视  尺寸单位 mm',30,True)
+    f.rect((100,205,500,605),'#dce8ec',BLUE,3)
+    f.rect((200,285,400,525),'#9db5c1',INK,3)
+    f.rect((200,355,790,455),'#bbcbd2',INK,3)
+    f.rect((200,285,400,525),'#9db5c1',INK,3)
+    for cy in (325,485):f.circle(300,cy,17,'white');f.circle(300,cy,5,INK)
+    f.arrow((100,165),(500,165),both=True);f.text((220,175),'锚片长40',26)
+    f.arrow((200,650),(400,650),both=True);f.text((210,680),'夹长20',26)
+    f.text((540,255),'两颗M3\n在片宽外侧\n距中线 ±8',27)
+    f.text((535,480),'弹性片宽10\n不得穿孔夹栅\n夹块宽24',27)
+    f.text((900,115),'夹持剖面',30,True)
+    f.rect((940,220,1400,280),'#9db5c1',INK,3)
+    f.rect((940,295,1460,311),'#bbcbd2',INK,2)
+    f.rect((940,325,1400,385),'#9db5c1',INK,3)
+    f.text((950,420),'上夹块厚4  下夹块厚4\n中间弹性片厚度按试验组\n示意留缝 实际夹紧接触',27)
+    f.text((900,605),'本端角座连接本端锚片\n法向试验锚片平放\n顺坡试验锚片转入y-n面',28)
+    f.text((70,790),'先台架测夹持滑移与转角，再测土锚拔滑；紧固扭矩与孔位配合由样件确定。',29)
+    f.text((70,855),'锚片40 × 40 × 1、夹块20 × 24 × 4为制造讨论值；图示非签审加工图。',29)
+    f.text((70,920),'光纤尾纤沿长向引出，避免在10 mm片宽内回折；连接弯曲半径按厂家数据。',27)
+    f.save('F07_夹具与锚片')
+
 def text_runs(p, text):
     for part in re.split(r'(https://[^\s。]+)', text.replace('**','')):
         if part.startswith('https://'):
@@ -215,7 +237,7 @@ def setup(doc):
             for border in list(ppr.findall(qn('w:pBdr'))):ppr.remove(border)
     doc.styles['Normal'].paragraph_format.widow_control=True
     foot=sec.footer.paragraphs[0];foot.alignment=WD_ALIGN_PARAGRAPH.CENTER
-    foot.add_run('V4.0  |  2026-10-27  |  ').font.size=Pt(9)
+    foot.add_run('V4.0  |  2026-10-28  |  ').font.size=Pt(9)
     fld=OxmlElement('w:fldSimple');fld.set(qn('w:instr'),'PAGE');foot._p.append(fld)
     doc.core_properties.author='桥梁边坡光纤监测项目组'
     doc.core_properties.last_modified_by='桥梁边坡光纤监测项目组'
@@ -245,7 +267,16 @@ def table(doc, rows):
     doc.add_paragraph().paragraph_format.space_after=Pt(2)
 
 def build(path):
-    doc=Document();setup(doc);lines=path.read_text(encoding='utf-8').splitlines();i=0
+    doc=Document();setup(doc);source=path.read_text(encoding='utf-8')
+    if path.name.startswith('02_'):
+        block='![横向布纤方向性](assets/F01_方向与盲区.png)\n\n图1 横向布纤对不同位移方向的响应路径及盲区\n\n'
+        source=source.replace(block,'')
+        source=source.replace('## 1 坐标与方向可观测性',block+'## 1 坐标与方向可观测性')
+        intro='节点使用横向弹性薄片连接两个局部锚片；在薄片两面贴FBG，利用差动弯曲产生一拉一压。薄片长轴沿y，薄片的薄厚方向朝目标位移方向。测法向沉陷时薄片宽面平行坡面；测顺坡剪切时薄片转90°，宽面沿y-n平面。更改的是节点姿态，主光缆仍横向。'
+        source=source.replace(intro+'\n\n','')
+        caption='图3 双面FBG弯曲件的候选尺寸与引线分区'
+        source=source.replace(caption,caption+'\n\n'+intro)
+    lines=source.splitlines();i=0
     while i<len(lines):
         line=lines[i].strip()
         if not line:i+=1;continue
@@ -280,9 +311,11 @@ def records():
       '05_铺土与耦合.csv':['trial_id','layer_from_bottom','thickness_mm','net_volume_m3','dry_sand_kg','dry_kaolin_kg','sand_initial_water_ratio','kaolin_initial_water_ratio','added_water_kg','wet_mass_kg','measured_water_ratio','measured_dry_density_kg_m3','compaction_method','node_id','s_mm','y_mm','d_mm','anchor_slip_um','prebury_spectrum_file','postbury_spectrum_file','remarks']
     }
     for name,fields in specs.items():
-        with (p/name).open('w',encoding='utf-8-sig',newline='') as f:csv.writer(f).writerow(fields)
+        if not (p/name).exists():
+            with (p/name).open('w',encoding='utf-8-sig',newline='') as f:csv.writer(f).writerow(fields)
     cfg={'status':'planned_not_measured','version':'V4.0','coordinates':{'s':'downslope/loading direction','y':'transverse','n':'outward normal','d':'depth below local soil surface'},'box_mm':{'s':600,'y':800,'height':300,'soil_thickness':160},'line_s_mm':[150,300,450],'node_y_mm':[200,400,600],'depth_mm':80,'configuration_counts':{'A':12,'B_single_direction':21,'B_two_direction':39},'soil_candidates_dry_mass':{'A0':{'sand':1.0,'kaolin':0.0},'A5':{'sand':.95,'kaolin':.05},'A10':{'sand':.9,'kaolin':.1}},'candidate_water_ratio':[.02,.04,.06],'actual_dry_density_kg_m3':None,'actual_interrogator':None,'measured_noise_ue':None,'validated_detection_limit_um':None,'alarm_rule':None,'test_split_rule':'group by independent rebuild and batch before windowing'}
-    (p/'planned_configuration.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=2),encoding='utf-8')
+    if not (p/'planned_configuration.json').exists():
+        (p/'planned_configuration.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=2),encoding='utf-8')
     (p/'README.md').write_text('# V4试验记录空表\n\n这些文件仅定义字段，没有预填实测成绩。位移、应变、时间和质量的单位写在列名中。时间用带时区记录；事件时间以同一试验单调时钟为基准。所有重复循环仍属于同一重建组。\n\n配方含水率采用干基小数，例如0.04代表4%。配置JSON中的null表示未取得数据，不表示零。阶段、参数和标签请在试验前冻结并记录版本。\n',encoding='utf-8')
 
 def calculations():

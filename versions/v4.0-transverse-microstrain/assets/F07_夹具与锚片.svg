@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">单端夹具与锚片装配   两端分别连接 不跨接有效弯曲段</text>
+<text x="70" y="140" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">单端俯视  尺寸单位 mm</text>
+<rect x="100" y="205" width="400" height="400" fill="#dce8ec" stroke="#24647d" stroke-width="3"/>
+<rect x="200" y="285" width="200" height="240" fill="#9db5c1" stroke="#20313b" stroke-width="3"/>
+<rect x="200" y="355" width="590" height="100" fill="#bbcbd2" stroke="#20313b" stroke-width="3"/>
+<rect x="200" y="285" width="200" height="240" fill="#9db5c1" stroke="#20313b" stroke-width="3"/>
+<circle cx="300" cy="325" r="17" fill="white"/>
+<circle cx="300" cy="325" r="5" fill="#20313b"/>
+<circle cx="300" cy="485" r="17" fill="white"/>
+<circle cx="300" cy="485" r="5" fill="#20313b"/>
+<polyline points="100,165 500,165" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="500,165 486.49329346470984,171.52448301166845 486.49329346470984,158.47551698833155 500,165" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="100,165 113.50670653529015,158.47551698833155 113.50670653529015,171.52448301166845 100,165" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="220" y="201" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">锚片长40</text>
+<polyline points="200,650 400,650" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="400,650 386.49329346470984,656.5244830116685 386.49329346470984,643.4755169883315 400,650" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="200,650 213.50670653529016,643.4755169883315 213.50670653529016,656.5244830116685 200,650" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="210" y="706" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">夹长20</text>
+<text x="540" y="282" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">两颗M3</text>
+<text x="540" y="321" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">在片宽外侧</text>
+<text x="540" y="360" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">距中线 ±8</text>
+<text x="535" y="507" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">弹性片宽10</text>
+<text x="535" y="546" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">不得穿孔夹栅</text>
+<text x="535" y="585" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">夹块宽24</text>
+<text x="900" y="145" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">夹持剖面</text>
+<rect x="940" y="220" width="460" height="60" fill="#9db5c1" stroke="#20313b" stroke-width="3"/>
+<rect x="940" y="295" width="520" height="16" fill="#bbcbd2" stroke="#20313b" stroke-width="2"/>
+<rect x="940" y="325" width="460" height="60" fill="#9db5c1" stroke="#20313b" stroke-width="3"/>
+<text x="950" y="447" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">上夹块厚4  下夹块厚4</text>
+<text x="950" y="486" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">中间弹性片厚度按试验组</text>
+<text x="950" y="525" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">示意留缝 实际夹紧接触</text>
+<text x="900" y="633" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">本端角座连接本端锚片</text>
+<text x="900" y="673" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">法向试验锚片平放</text>
+<text x="900" y="713" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">顺坡试验锚片转入y-n面</text>
+<text x="70" y="819" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">先台架测夹持滑移与转角，再测土锚拔滑；紧固扭矩与孔位配合由样件确定。</text>
+<text x="70" y="884" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">锚片40 × 40 × 1、夹块20 × 24 × 4为制造讨论值；图示非签审加工图。</text>
+<text x="70" y="947" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">光纤尾纤沿长向引出，避免在10 mm片宽内回折；连接弯曲半径按厂家数据。</text>
+</svg>

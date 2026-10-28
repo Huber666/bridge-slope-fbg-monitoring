@@ -12,7 +12,7 @@
 <text x="30" y="467" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">s</text>
 <text x="30" y="506" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">600</text>
 <polyline points="105,320 950,320" fill="none" stroke="#24647d" stroke-width="4"/>
-<text x="990" y="332" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">H1  s=150</text>
+<text x="990" y="330" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">H1  s=150</text>
 <rect x="280" y="295" width="180" height="50" fill="#ead4b5" stroke="#b13c34" stroke-width="2"/>
 <circle cx="370" cy="320" r="9" fill="#b13c34"/>
 <text x="321" y="279" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">H1-1</text>
@@ -25,7 +25,7 @@
 <circle cx="270" cy="290" r="8" fill="#24647d"/>
 <text x="218" y="272" font-family="Microsoft YaHei,sans-serif" font-size="24" font-weight="400" fill="#24647d">T1</text>
 <polyline points="105,470 950,470" fill="none" stroke="#24647d" stroke-width="4"/>
-<text x="990" y="482" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">H2  s=300</text>
+<text x="990" y="480" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">H2  s=300</text>
 <rect x="280" y="445" width="180" height="50" fill="#ead4b5" stroke="#b13c34" stroke-width="2"/>
 <circle cx="370" cy="470" r="9" fill="#b13c34"/>
 <text x="321" y="429" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">H2-1</text>
@@ -38,7 +38,7 @@
 <circle cx="270" cy="440" r="8" fill="#24647d"/>
 <text x="218" y="422" font-family="Microsoft YaHei,sans-serif" font-size="24" font-weight="400" fill="#24647d">T2</text>
 <polyline points="105,620 950,620" fill="none" stroke="#24647d" stroke-width="4"/>
-<text x="990" y="632" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">H3  s=450</text>
+<text x="990" y="630" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">H3  s=450</text>
 <rect x="280" y="595" width="180" height="50" fill="#ead4b5" stroke="#b13c34" stroke-width="2"/>
 <circle cx="370" cy="620" r="9" fill="#b13c34"/>
 <text x="321" y="579" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">H3-1</text>
@@ -53,15 +53,15 @@
 <text x="340" y="833" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">200</text>
 <text x="540" y="833" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">400</text>
 <text x="740" y="833" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">600</text>
-<text x="1050" y="198" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">图示为节点占位</text>
-<text x="1050" y="238" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">最大 180 × 50</text>
-<text x="1050" y="278" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">默认埋深 d = 80</text>
-<text x="1050" y="368" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">每线三个节点</text>
-<text x="1050" y="408" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">中心间距 200</text>
-<text x="1050" y="448" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">端部土体余量 110</text>
-<text x="1050" y="543" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">左侧分路引出</text>
-<text x="1050" y="583" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">汇线在箱外保护</text>
-<text x="1050" y="623" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">不纵向贯穿土体</text>
+<text x="1230" y="197" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">节点最大占位</text>
+<text x="1230" y="236" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">180 × 50</text>
+<text x="1230" y="275" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">埋深 d = 80</text>
+<text x="1230" y="367" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">每线三个节点</text>
+<text x="1230" y="406" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">中心间距 200</text>
+<text x="1230" y="445" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">侧边余量 110</text>
+<text x="1230" y="542" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">左侧分路引出</text>
+<text x="1230" y="581" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">箱外保护汇线</text>
+<text x="1230" y="620" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">不纵穿土体</text>
 <text x="80" y="905" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="400" fill="#20313b">A：9应变 + 3温度 = 12栅     B单方向：18应变 + 3温度 = 21栅</text>
 <text x="80" y="952" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">温度点独立松套；节点之间保留柔性余量。各配置分别重建对比。</text>
 </svg>
