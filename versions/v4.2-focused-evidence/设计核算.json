@@ -1,0 +1,19 @@
+{
+  "provenance": "P2 geometry; derived values are calculations, not measurements",
+  "beam_mm": [
+    1100,
+    100,
+    100
+  ],
+  "span_mm": 600,
+  "gauge_mm": 300,
+  "volume_m3": 0.011000000000000003,
+  "mass_at_assumed_2400kgm3": 26.400000000000006,
+  "rate_N_s": 2.5,
+  "ideal_ue_for_1_5_20um": [
+    3.3333333333333335,
+    16.666666666666668,
+    66.66666666666667
+  ],
+  "single_node_gratings": 2
+}

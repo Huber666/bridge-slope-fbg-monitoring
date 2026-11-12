@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="780" viewBox="0 0 1600 780">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">方向B  小型混凝土梁的真实受弯开裂</text>
+<rect x="140.0" y="230" width="1265.0" height="115" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<polyline points="163.0,322 1382.0,322" fill="none" stroke="#657d88" stroke-width="4"/>
+<polyline points="427.5,345 392.5,405 462.5,405 427.5,345" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1117.5,345 1082.5,405 1152.5,405 1117.5,345" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="772.5,115 772.5,225" fill="none" stroke="#b13c34" stroke-width="4"/>
+<polyline points="772.5,225 765.9755169883315,211.49329346470984 779.0244830116685,211.49329346470984 772.5,225" fill="none" stroke="#b13c34" stroke-width="4"/>
+<text x="812.5" y="122" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">中心加载  2.5 N/s来自P2</text>
+<text x="812.5" y="161" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">实际停机值另核定</text>
+<rect x="590.0" y="345" width="20.0" height="25" fill="#657d88" stroke="#20313b" stroke-width="2"/>
+<rect x="934.9999999999999" y="345" width="20.0" height="25" fill="#657d88" stroke="#20313b" stroke-width="2"/>
+<polyline points="600.0,370 944.9999999999999,370" fill="none" stroke="#b13c34" stroke-width="6"/>
+<polyline points="140.0,190 1405.0,190" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1405.0,190 1391.49329346471,196.52448301166845 1391.49329346471,183.47551698833155 1405.0,190" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="140.0,190 153.50670653529016,183.47551698833155 153.50670653529016,196.52448301166845 140.0,190" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="240" y="168" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">试件总长1100</text>
+<polyline points="427.5,455 1117.5,455" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1117.5,455 1103.99329346471,461.52448301166845 1103.99329346471,448.47551698833155 1117.5,455" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="427.5,455 441.00670653529016,448.47551698833155 441.00670653529016,461.52448301166845 427.5,455" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="660" y="498" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">支承跨距600</text>
+<text x="120" y="563" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">截面100 × 100   两根直径8钢筋   原文养护28 d</text>
+<text x="120" y="617" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">受拉面跨缝组件标距300   温度参考邻近   相机同时看锚点与裂缝</text>
+<text x="120" y="672" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">首轮无预制缺口为本项目改动  不承诺裂缝出现位置与原文一致</text>
+<text x="120" y="736" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">单位mm  P2原尺寸  坐标由居中布置推算  非加工详图或全坡缩尺</text>
+</svg>

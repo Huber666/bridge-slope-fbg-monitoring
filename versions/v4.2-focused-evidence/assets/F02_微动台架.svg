@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">方向A  受控微动先验证安装和检测限</text>
+<rect x="130" y="230" width="590" height="200" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<rect x="780" y="230" width="590" height="200" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<rect x="130" y="430" width="590" height="40" fill="#a3b7c0" stroke="#20313b" stroke-width="2"/>
+<rect x="780" y="430" width="590" height="40" fill="#a3b7c0" stroke="#20313b" stroke-width="2"/>
+<text x="265" y="510" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">固定端</text>
+<text x="980" y="510" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">精密移动端</text>
+<rect x="520" y="215" width="60" height="25" fill="#657d88" stroke="#20313b" stroke-width="2"/>
+<rect x="920" y="215" width="60" height="25" fill="#657d88" stroke="#20313b" stroke-width="2"/>
+<polyline points="550,215 950,215" fill="none" stroke="#b13c34" stroke-width="7"/>
+<text x="520" y="173" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">跨缝组件  有效标距实测</text>
+<polyline points="1380,330 1500,330" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="1500,330 1486.49329346471,336.52448301166845 1486.49329346471,323.47551698833155 1500,330" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="1310" y="395" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">小幅差动</text>
+<circle cx="580" cy="315" r="8" fill="#b13c34"/>
+<circle cx="920" cy="315" r="8" fill="#b13c34"/>
+<polyline points="580,315 920,315" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="920,315 906.4932934647098,321.52448301166845 906.4932934647098,308.47551698833155 920,315" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="580,315 593.5067065352902,308.47551698833155 593.5067065352902,321.52448301166845 580,315" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="515" y="567" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">独立参考测混凝土两点差动</text>
+<text x="515" y="606" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">另看底座是否滑移  不直接用电机读数作真值</text>
+<text x="80" y="117" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">P1/P2提供传力依据  本装置为改造设计  不是完整坡体</text>
+</svg>
