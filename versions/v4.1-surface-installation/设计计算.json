@@ -1,0 +1,10 @@
+{
+  "status": "design_examples_not_measured",
+  "direct_1mm_over_100mm_ue": 10000,
+  "direct_3mm_over_100mm_ue": 30000,
+  "ideal_beam_ue_per_mm": 78.125,
+  "ideal_beam_N_per_mm": 0.13961226851851852,
+  "gratings_core": 15,
+  "gratings_with_two_single_fbg_displacement_gauges": 17,
+  "horizontal_rain_20mmh_20min_L": 3.1999999999999997
+}

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">同一土箱更换表面与病害模块</text>
+<text x="65" y="135" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">可换表面  每轮使用一种</text>
+<rect x="65" y="165" width="255" height="95" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<text x="73" y="305" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">C0 裸土</text>
+<rect x="365" y="165" width="255" height="95" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<text x="373" y="305" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">C1 活体草</text>
+<polyline points="380,170 373,135 380,153 389,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="405,170 398,135 405,153 414,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="430,170 423,135 430,153 439,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="455,170 448,135 455,153 464,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="480,170 473,135 480,153 489,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="505,170 498,135 505,153 514,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="530,170 523,135 530,153 539,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="555,170 548,135 555,153 564,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="580,170 573,135 580,153 589,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<polyline points="605,170 598,135 605,153 614,132" fill="none" stroke="#4f7b53" stroke-width="3"/>
+<rect x="665" y="165" width="255" height="95" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<text x="673" y="305" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">C2 砂浆骨架</text>
+<polyline points="677,180 907,180" fill="none" stroke="#657d88" stroke-width="8"/>
+<polyline points="677,210 907,210" fill="none" stroke="#657d88" stroke-width="8"/>
+<polyline points="677,240 907,240" fill="none" stroke="#657d88" stroke-width="8"/>
+<polyline points="700,170 700,250" fill="none" stroke="#657d88" stroke-width="8"/>
+<polyline points="790,170 790,250" fill="none" stroke="#657d88" stroke-width="8"/>
+<polyline points="885,170 885,250" fill="none" stroke="#657d88" stroke-width="8"/>
+<rect x="965" y="165" width="255" height="95" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<text x="973" y="305" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">C3 连续面层</text>
+<rect x="1265" y="165" width="255" height="95" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<text x="1273" y="305" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">C4 土内格栅</text>
+<polyline points="1280,190 1505,190" fill="none" stroke="#4f7b53" stroke-width="5"/>
+<polyline points="1280,225 1505,225" fill="none" stroke="#4f7b53" stroke-width="5"/>
+<rect x="150" y="405" width="910" height="195" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<text x="185" y="455" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">试验净空间 s600 × y800 × 高300 mm</text>
+<text x="185" y="508" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">土厚160 mm  同批土与分层工艺保持可比</text>
+<rect x="150" y="600" width="910" height="35" fill="#a3b7c0" stroke="#20313b" stroke-width="2"/>
+<rect x="200" y="635" width="170" height="80" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<rect x="500" y="635" width="170" height="80" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<rect x="800" y="635" width="170" height="80" fill="#dce8ee" stroke="#20313b" stroke-width="2"/>
+<text x="185" y="756" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">M1 张开</text>
+<text x="485" y="756" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">M3 错动</text>
+<text x="785" y="756" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">M2 下沉</text>
+<text x="1130" y="438" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">观察壁可拆</text>
+<text x="1130" y="478" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">相机与位移架独立</text>
+<text x="1130" y="518" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">驱动器位于干区</text>
+<text x="1130" y="558" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">连续集水底在下方</text>
+<text x="1130" y="648" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">先做水平传力试验</text>
+<text x="1130" y="688" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">再做坡槽自然演化</text>
+<text x="65" y="836" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">三种模块择一装入  植被与格栅不是可随意撕下重贴的表皮</text>
+</svg>

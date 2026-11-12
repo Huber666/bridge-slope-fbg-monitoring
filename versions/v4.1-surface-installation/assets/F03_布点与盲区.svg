@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="870" viewBox="0 0 1600 870">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">框格贴附布点与必须保留的漏测对照</text>
+<rect x="105" y="140" width="840.0" height="630.0" fill="#f3eadc" stroke="#20313b" stroke-width="2"/>
+<polyline points="210.0,297.5 840.0,297.5" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<polyline points="210.0,280.5 840.0,280.5" fill="none" stroke="#24647d" stroke-width="4"/>
+<circle cx="288.75" cy="297.5" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="297.5" r="9" fill="#b13c34"/>
+<polyline points="210.0,455.0 840.0,455.0" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<polyline points="210.0,438.0 840.0,438.0" fill="none" stroke="#24647d" stroke-width="4"/>
+<circle cx="288.75" cy="455.0" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="455.0" r="9" fill="#b13c34"/>
+<polyline points="210.0,612.5 840.0,612.5" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<polyline points="210.0,595.5 840.0,595.5" fill="none" stroke="#24647d" stroke-width="4"/>
+<circle cx="288.75" cy="612.5" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="612.5" r="9" fill="#b13c34"/>
+<polyline points="210.0,218.75 210.0,691.25" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<polyline points="525.0,218.75 525.0,691.25" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<polyline points="840.0,218.75 840.0,691.25" fill="none" stroke="#a3b7c0" stroke-width="23"/>
+<circle cx="288.75" cy="297.5" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="297.5" r="9" fill="#b13c34"/>
+<text x="887.25" y="306.5" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H1</text>
+<circle cx="288.75" cy="455.0" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="455.0" r="9" fill="#b13c34"/>
+<text x="887.25" y="464.0" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H2</text>
+<circle cx="288.75" cy="612.5" r="9" fill="#b13c34"/>
+<circle cx="603.75" cy="612.5" r="9" fill="#b13c34"/>
+<text x="887.25" y="621.5" font-family="Microsoft YaHei,sans-serif" font-size="26" font-weight="400" fill="#20313b">H3</text>
+<rect x="315.5" y="324.25" width="104.0" height="104.0" fill="#edc8c3" stroke="#b13c34" stroke-width="3"/>
+<text x="322.5" y="383.25" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">格内</text>
+<rect x="473.0" y="403.0" width="104.0" height="104.0" fill="#c9dce5" stroke="#24647d" stroke-width="3"/>
+<text x="480.0" y="462.0" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">节点</text>
+<polyline points="105,120 945,120" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="945,120 931.4932934647098,126.52448301166845 931.4932934647098,113.47551698833155 945,120" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="105,120 118.50670653529015,113.47551698833155 118.50670653529015,126.52448301166845 105,120" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="400" y="102" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">横坡 y 800 mm</text>
+<text x="1010" y="189" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">红点为候选测量位置</text>
+<text x="1010" y="230" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">每处上面与侧面各1栅</text>
+<text x="1010" y="271" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">6处共12应变栅</text>
+<text x="1010" y="312" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">另3温度栅  合计15栅</text>
+<text x="1010" y="399" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">蓝区  撤去梁下支承</text>
+<text x="1010" y="440" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">检验构件弯曲响应</text>
+<text x="1010" y="514" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">红区  撤去格内支承</text>
+<text x="1010" y="555" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">土体动而骨架可能不动</text>
+<text x="1010" y="596" font-family="Microsoft YaHei,sans-serif" font-size="29" font-weight="400" fill="#20313b">记录贴附方案漏测</text>
+<text x="1010" y="678" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">这两种位置分次重建</text>
+<text x="1010" y="718" font-family="Microsoft YaHei,sans-serif" font-size="28" font-weight="400" fill="#20313b">不能在同一试次混用</text>
+<text x="110" y="829" font-family="Microsoft YaHei,sans-serif" font-size="24" font-weight="400" fill="#20313b">s向下  横梁s150/300/450  纵梁y100/400/700  示意尺寸单位mm</text>
+</svg>

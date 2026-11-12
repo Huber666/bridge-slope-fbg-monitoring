@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="920" viewBox="0 0 1600 920">
+<rect width="100%" height="100%" fill="white"/>
+<text x="45" y="61" font-family="Microsoft YaHei,sans-serif" font-size="36" font-weight="700" fill="#20313b">横向主光路与三种局部感测路线</text>
+<text x="55" y="125" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">① 有可靠表面  优先贴附或两端固定</text>
+<rect x="80" y="180" width="880" height="80" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<polyline points="80,155 960,155" fill="none" stroke="#24647d" stroke-width="7"/>
+<rect x="200" y="185" width="140" height="25" fill="#b13c34" stroke="#20313b" stroke-width="2"/>
+<text x="150" y="312" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">贴片测梁面局部应变</text>
+<polyline points="620,180 600,220 625,260" fill="none" stroke="#b13c34" stroke-width="5"/>
+<rect x="540" y="200" width="30" height="40" fill="#a3b7c0" stroke="#20313b" stroke-width="2"/>
+<rect x="680" y="200" width="30" height="40" fill="#a3b7c0" stroke="#20313b" stroke-width="2"/>
+<polyline points="555,220 695,220" fill="none" stroke="#b13c34" stroke-width="5"/>
+<text x="510" y="312" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">两底座跨缝  测相对位移</text>
+<text x="1040" y="192" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">主光路沿横梁</text>
+<text x="1040" y="231" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">局部感测件按变形方向</text>
+<text x="1040" y="270" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">尾纤松弛并保护</text>
+<text x="55" y="395" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">② 新建加筋填土  施工期贴到受力肋</text>
+<polyline points="100,435 900,435" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="100,475 900,475" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="100,515 900,515" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="100,430 100,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="200,430 200,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="300,430 300,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="400,430 400,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="500,430 500,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="600,430 600,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="700,430 700,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="800,430 800,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="900,430 900,530" fill="none" stroke="#7e9a80" stroke-width="6"/>
+<polyline points="395,435 395,510" fill="none" stroke="#b13c34" stroke-width="9"/>
+<polyline points="970,435 970,525" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="970,525 963.4755169883315,511.49329346470984 976.5244830116685,511.49329346470984 970,525" fill="none" stroke="#24647d" stroke-width="4"/>
+<polyline points="970,435 976.5244830116685,448.50670653529016 963.4755169883315,448.50670653529016 970,435" fill="none" stroke="#24647d" stroke-width="4"/>
+<text x="1020" y="462" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">感测方向沿承力肋</text>
+<text x="1020" y="501" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">不能只为横向走线</text>
+<text x="1020" y="540" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">改变受力方向</text>
+<text x="55" y="620" font-family="Microsoft YaHei,sans-serif" font-size="30" font-weight="700" fill="#20313b">③ 无可靠载体或目标在深部  孔内构件补测</text>
+<rect x="90" y="660" width="840" height="160" fill="#dfc8a7" stroke="#20313b" stroke-width="2"/>
+<polyline points="100,635 900,635" fill="none" stroke="#24647d" stroke-width="6"/>
+<polyline points="440,640 440,790" fill="none" stroke="#7e9a80" stroke-width="12"/>
+<polyline points="100,740 900,740" fill="none" stroke="#b13c34" stroke-width="3"/>
+<circle cx="450" cy="690" r="6" fill="#b13c34"/>
+<circle cx="450" cy="725" r="6" fill="#b13c34"/>
+<circle cx="450" cy="755" r="6" fill="#b13c34"/>
+<circle cx="450" cy="785" r="6" fill="#b13c34"/>
+<text x="520" y="707" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">孔内杆跨剪切带</text>
+<text x="520" y="792" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">孔口横向光缆汇接</text>
+<text x="1030" y="702" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">必须检验回填和传力</text>
+<text x="1030" y="741" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">空孔松放光纤不可行</text>
+<text x="1030" y="780" font-family="Microsoft YaHei,sans-serif" font-size="27" font-weight="400" fill="#20313b">稳定参考段另行确认</text>
+<text x="65" y="880" font-family="Microsoft YaHei,sans-serif" font-size="25" font-weight="400" fill="#20313b">示意不按比例  蓝色为光路  红色为感测段或目标裂缝</text>
+</svg>
